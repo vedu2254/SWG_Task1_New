@@ -2,4 +2,8 @@
     <string name="app_name">My Application</string>
     <string name="tab_text_1">Study Materials</string>
     <string name="tab_text_2">Syllabus</string>
+
+
+    <string name="demo_text">demo Text</string>
+    <string name="description_will_showup_here">Description will showup here</string>
 </resources>
