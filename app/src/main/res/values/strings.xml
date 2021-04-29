@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tab_text_1">Study Materials</string>
+    <string name="tab_text_2">Syllabus</string>
+</resources>
