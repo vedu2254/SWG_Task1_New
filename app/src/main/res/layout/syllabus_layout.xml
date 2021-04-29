@@ -10,8 +10,24 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Syllabus will be shown here"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:text="A sample sequence of topics to be covered in the sessions is given below:\n
+
+\nFamiliarization of a computer and the environment and execution of sample programs
+\nExpression evaluation
+\nConditionals and branching
+\nIteration
+\nFunctions
+\nRecursion
+\nArrays
+\nStructures
+\nLinked lists
+\nData structures"
+        android:textSize="25sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
